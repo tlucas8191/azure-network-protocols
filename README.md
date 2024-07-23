@@ -96,7 +96,9 @@ In this step, we observe DNS traffic.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-07-22 at 8 46 30 PM](https://github.com/user-attachments/assets/6afc214e-88de-4b00-abf4-5d8b7b14c95a)
+![Screen Shot 2024-07-22 at 8 46 53 PM](https://github.com/user-attachments/assets/4035694f-e683-4b4f-86cf-bee54c14f82e)
 </p>
 <p>
 In this step, we observe RDP traffic.
