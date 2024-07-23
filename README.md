@@ -52,6 +52,7 @@ In this step, we created resources needed to run the lab correctly.  The resourc
 ![Screen Shot 2024-07-22 at 8 09 10 PM](https://github.com/user-attachments/assets/3a49e175-f549-4d22-b4c9-f7b35895bb53)
 ![Screen Shot 2024-07-22 at 8 10 21 PM](https://github.com/user-attachments/assets/17e068f1-7d38-4e20-9f0a-d50ba5e1701d)
 ![Screen Shot 2024-07-22 at 8 10 51 PM](https://github.com/user-attachments/assets/51c71622-f3c4-4245-afc8-fe0ccb5de2c2)
+![Screen Shot 2024-07-22 at 8 13 23 PM](https://github.com/user-attachments/assets/70156adb-b275-4911-8f47-ca518761bdee)
 </p>
 <p>
 In this step, we observe ICMP traffic.
