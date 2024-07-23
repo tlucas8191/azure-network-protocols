@@ -48,10 +48,13 @@ In this step, we created resources needed to run the lab correctly.  The resourc
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-07-22 at 8 09 10 PM](https://github.com/user-attachments/assets/3a49e175-f549-4d22-b4c9-f7b35895bb53)
+![Screen Shot 2024-07-22 at 8 10 21 PM](https://github.com/user-attachments/assets/17e068f1-7d38-4e20-9f0a-d50ba5e1701d)
+![Screen Shot 2024-07-22 at 8 10 51 PM](https://github.com/user-attachments/assets/51c71622-f3c4-4245-afc8-fe0ccb5de2c2)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, we observe ICMP traffic.
 </p>
 <br />
 
